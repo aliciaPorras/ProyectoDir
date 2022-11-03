@@ -1,0 +1,6 @@
+libdir.py
+setup.py
+libdir.egg-info/PKG-INFO
+libdir.egg-info/SOURCES.txt
+libdir.egg-info/dependency_links.txt
+libdir.egg-info/top_level.txt
